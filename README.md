@@ -256,6 +256,7 @@ Conduct Regular Ethical Audits:
 Periodically review and assess software projects for ethical compliance.
 Implement feedback mechanisms to identify and address ethical concerns promptly.
 
+References
 
 Pressman, R. S. (2014). Software Engineering: A Practitioner's Approach (8th ed.). McGraw-Hill Education.
 This book is a foundational text in software engineering, covering a wide range of topics including SDLC, software design, and maintenance.
